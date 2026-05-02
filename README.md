@@ -1,2 +1,2 @@
 # App-dev
-My first repiratory
+My first respiratory
